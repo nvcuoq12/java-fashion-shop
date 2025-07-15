@@ -16,7 +16,7 @@ This is a console-based Java application for managing a small fashion shop, incl
 - Console-based menu system
 - Multi-layered structure: `model/`, `service/`, `App.java`
 
-## ⚙️ Features
+## Features
 
 - Add, edit, delete, and sort:
   - Categories
