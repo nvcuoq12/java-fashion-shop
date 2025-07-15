@@ -14,7 +14,7 @@ This is a console-based Java application for managing a small fashion shop, incl
 
 - Java Core (OOP, Scanner, ArrayList, Map)
 - Console-based menu system
-- Multi-layered structure: `model/`, `service/`, `App.java`
+- Multi-layered structure: `model/`, `service/`, `Main.java`
 
 ## Features
 
@@ -33,7 +33,7 @@ This is a console-based Java application for managing a small fashion shop, incl
 How to run
 
 1. Open the project in Eclipse/IntelliJ/NetBeans
-2. Run `App.java` as Java Application
+2. Run `Main.java` as Java Application
 3. Use menu to interact via console
 
 
